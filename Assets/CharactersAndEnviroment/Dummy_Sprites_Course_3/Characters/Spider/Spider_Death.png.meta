@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: cd23b958c95715246852e4c3d9e6b22d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5515940388465253583
+    second: Spider_Death_0
+  - first:
+      213: -6520443128951653849
+    second: Spider_Death_1
+  - first:
+      213: -1438455721846447060
+    second: Spider_Death_2
+  - first:
+      213: -695508911225482883
+    second: Spider_Death_3
+  - first:
+      213: -4056761900464952230
+    second: Spider_Death_4
+  - first:
+      213: 7385018138126898444
+    second: Spider_Death_5
+  - first:
+      213: 6864951633810407737
+    second: Spider_Death_6
+  - first:
+      213: -7690719552909781631
+    second: Spider_Death_7
+  - first:
+      213: 1283128748658628804
+    second: Spider_Death_8
+  - first:
+      213: -8255346605438262791
+    second: Spider_Death_9
+  - first:
+      213: -4931404147288087084
+    second: Spider_Death_10
+  - first:
+      213: 6881875229547684426
+    second: Spider_Death_11
+  - first:
+      213: 4303769466727667012
+    second: Spider_Death_12
+  - first:
+      213: 4586777681906219758
+    second: Spider_Death_13
+  - first:
+      213: 5265022023639740371
+    second: Spider_Death_14
+  - first:
+      213: -620582921062787571
+    second: Spider_Death_15
+  - first:
+      213: 4488791372681652255
+    second: Spider_Death_16
+  - first:
+      213: 4039163050319630384
+    second: Spider_Death_17
+  - first:
+      213: -8652791768032594203
+    second: Spider_Death_18
+  - first:
+      213: -5240080820927950682
+    second: Spider_Death_19
+  - first:
+      213: -2179491946542612731
+    second: Spider_Death_20
+  - first:
+      213: -236438270778105026
+    second: Spider_Death_21
+  - first:
+      213: 6152064827210850160
+    second: Spider_Death_22
+  - first:
+      213: 4237073251075388097
+    second: Spider_Death_23
+  - first:
+      213: 2636805266812054137
+    second: Spider_Death_24
+  - first:
+      213: -268066435241211554
+    second: Spider_Death_25
+  - first:
+      213: 2685037774779261071
+    second: Spider_Death_26
+  - first:
+      213: 4032620940056966189
+    second: Spider_Death_27
+  - first:
+      213: -6484147580194844080
+    second: Spider_Death_28
+  - first:
+      213: 6541147359082852304
+    second: Spider_Death_29
+  - first:
+      213: -6373307215172268941
+    second: Spider_Death_30
+  - first:
+      213: -1701788793634830156
+    second: Spider_Death_31
+  - first:
+      213: 8319027057893409049
+    second: Spider_Death_32
+  - first:
+      213: -1170458830452421567
+    second: Spider_Death_33
+  - first:
+      213: 3895955271376886457
+    second: Spider_Death_34
+  - first:
+      213: -9196720871325908961
+    second: Spider_Death_35
+  - first:
+      213: -1425215753762861846
+    second: Spider_Death_36
+  - first:
+      213: 5459077065017553117
+    second: Spider_Death_37
+  - first:
+      213: 7549806640703422999
+    second: Spider_Death_38
+  - first:
+      213: -8445061378611585177
+    second: Spider_Death_39
+  - first:
+      213: 8958208266106117847
+    second: Spider_Death_40
+  - first:
+      213: -5112768044507859757
+    second: Spider_Death_41
+  - first:
+      213: 3605711734747071471
+    second: Spider_Death_42
+  - first:
+      213: 8698154531481226208
+    second: Spider_Death_43
+  - first:
+      213: 2144673950274840710
+    second: Spider_Death_44
+  - first:
+      213: -13760472581257477
+    second: Spider_Death_45
+  - first:
+      213: -8442063963845884555
+    second: Spider_Death_46
+  - first:
+      213: -7867595899002592966
+    second: Spider_Death_47
+  - first:
+      213: 1072107806484296483
+    second: Spider_Death_48
+  - first:
+      213: 1915372697886362788
+    second: Spider_Death_49
+  - first:
+      213: -9020580986569542892
+    second: Spider_Death_50
+  - first:
+      213: 9116953998044443806
+    second: Spider_Death_51
+  - first:
+      213: 4359257147807077388
+    second: Spider_Death_52
+  - first:
+      213: 184729304942728638
+    second: Spider_Death_53
+  - first:
+      213: 4373826324433016302
+    second: Spider_Death_54
+  - first:
+      213: -8819672703574865908
+    second: Spider_Death_55
+  - first:
+      213: -8168565774961892437
+    second: Spider_Death_56
+  - first:
+      213: 2186053679860620951
+    second: Spider_Death_57
+  - first:
+      213: -3405042808211897707
+    second: Spider_Death_58
+  - first:
+      213: -4811366926946975532
+    second: Spider_Death_59
+  - first:
+      213: 7686211576320387647
+    second: Spider_Death_60
+  - first:
+      213: -1276328038353840244
+    second: Spider_Death_61
+  - first:
+      213: -5285813379135230000
+    second: Spider_Death_62
+  - first:
+      213: 1147874205050663083
+    second: Spider_Death_63
+  - first:
+      213: 5371239484402011345
+    second: Spider_Death_64
+  - first:
+      213: 7515946791067925755
+    second: Spider_Death_65
+  - first:
+      213: -7546104426737331467
+    second: Spider_Death_66
+  - first:
+      213: -917831109794184216
+    second: Spider_Death_67
+  - first:
+      213: -7391295382628762684
+    second: Spider_Death_68
+  - first:
+      213: -1328369368734189238
+    second: Spider_Death_69
+  - first:
+      213: -7141747190029318085
+    second: Spider_Death_70
+  - first:
+      213: 923402355030909943
+    second: Spider_Death_71
+  - first:
+      213: 3197307398397158390
+    second: Spider_Death_72
+  - first:
+      213: -4631676813484617699
+    second: Spider_Death_73
+  - first:
+      213: -6164636217699038393
+    second: Spider_Death_74
+  - first:
+      213: -8996886770721593267
+    second: Spider_Death_75
+  - first:
+      213: -1697027096338838853
+    second: Spider_Death_76
+  - first:
+      213: -8016805240880823990
+    second: Spider_Death_77
+  - first:
+      213: 2367115026987686316
+    second: Spider_Death_78
+  - first:
+      213: -2275896042707864358
+    second: Spider_Death_79
+  - first:
+      213: 4182776718150276800
+    second: Spider_Death_80
+  - first:
+      213: 100273499307743153
+    second: Spider_Death_81
+  - first:
+      213: 7154372377962638682
+    second: Spider_Death_82
+  - first:
+      213: -6865359735629421163
+    second: Spider_Death_83
+  - first:
+      213: -7498118466458391029
+    second: Spider_Death_84
+  - first:
+      213: -8305423387442743403
+    second: Spider_Death_85
+  - first:
+      213: 5474105692082978498
+    second: Spider_Death_86
+  - first:
+      213: -4232455218496884369
+    second: Spider_Death_87
+  - first:
+      213: 6899788824684007653
+    second: Spider_Death_88
+  - first:
+      213: -4565782838741058267
+    second: Spider_Death_89
+  - first:
+      213: -890355261824072406
+    second: Spider_Death_90
+  - first:
+      213: 8332889939780552218
+    second: Spider_Death_91
+  - first:
+      213: 3685310508670205282
+    second: Spider_Death_92
+  - first:
+      213: 1401586379074443175
+    second: Spider_Death_93
+  - first:
+      213: 5384519306764486539
+    second: Spider_Death_94
+  - first:
+      213: -5608818138908396809
+    second: Spider_Death_95
+  - first:
+      213: 6242190802149298068
+    second: Spider_Death_96
+  - first:
+      213: -6251758908008491347
+    second: Spider_Death_97
+  - first:
+      213: -9171166094428272626
+    second: Spider_Death_98
+  - first:
+      213: -5637483608443177833
+    second: Spider_Death_99
+  - first:
+      213: -2509892518542894531
+    second: Spider_Death_100
+  - first:
+      213: -422418833479648354
+    second: Spider_Death_101
+  - first:
+      213: 2082075922959190502
+    second: Spider_Death_102
+  - first:
+      213: -5499561566708206023
+    second: Spider_Death_103
+  - first:
+      213: 5216964734438515594
+    second: Spider_Death_104
+  - first:
+      213: 9217766581982417774
+    second: Spider_Death_105
+  - first:
+      213: 222830311158755476
+    second: Spider_Death_106
+  - first:
+      213: -8341133803587428179
+    second: Spider_Death_107
+  - first:
+      213: 8286199660478436596
+    second: Spider_Death_108
+  - first:
+      213: 4714777721637268124
+    second: Spider_Death_109
+  - first:
+      213: 90775217950740512
+    second: Spider_Death_110
+  - first:
+      213: -7687084240442265734
+    second: Spider_Death_111
+  - first:
+      213: 6141064974963931536
+    second: Spider_Death_112
+  - first:
+      213: 770952060693398297
+    second: Spider_Death_113
+  - first:
+      213: -1026281341182094012
+    second: Spider_Death_114
+  - first:
+      213: -3278841639621512368
+    second: Spider_Death_115
+  - first:
+      213: 8643463489977455344
+    second: Spider_Death_116
+  - first:
+      213: 9196214848459672260
+    second: Spider_Death_117
+  - first:
+      213: -4352560149964489481
+    second: Spider_Death_118
+  - first:
+      213: -3452752845312164234
+    second: Spider_Death_119
+  - first:
+      213: 2027777970685382907
+    second: Spider_Death_120
+  - first:
+      213: -2452639121254687603
+    second: Spider_Death_121
+  - first:
+      213: 8885943036750064194
+    second: Spider_Death_122
+  - first:
+      213: 415061441690169874
+    second: Spider_Death_123
+  - first:
+      213: -7159690300764137562
+    second: Spider_Death_124
+  - first:
+      213: -387727784003518090
+    second: Spider_Death_125
+  - first:
+      213: 8558561689986416424
+    second: Spider_Death_126
+  - first:
+      213: -3924161649210739497
+    second: Spider_Death_127
+  - first:
+      213: -3596013730428901677
+    second: Spider_Death_128
+  - first:
+      213: 5377702056772021916
+    second: Spider_Death_129
+  - first:
+      213: 381358830331105456
+    second: Spider_Death_130
+  - first:
+      213: -7658149301456907184
+    second: Spider_Death_131
+  - first:
+      213: 5140808928588288480
+    second: Spider_Death_132
+  - first:
+      213: 1732947563555733175
+    second: Spider_Death_133
+  - first:
+      213: 1831497455282042976
+    second: Spider_Death_134
+  - first:
+      213: 3739011858608635681
+    second: Spider_Death_135
+  - first:
+      213: 3881139934958965829
+    second: Spider_Death_136
+  - first:
+      213: 9208244240091546464
+    second: Spider_Death_137
+  - first:
+      213: 7225001576889220756
+    second: Spider_Death_138
+  - first:
+      213: -5249371838847806223
+    second: Spider_Death_139
+  - first:
+      213: -8315035673500493146
+    second: Spider_Death_140
+  - first:
+      213: -2407036318476983571
+    second: Spider_Death_141
+  - first:
+      213: -9055654502151962231
+    second: Spider_Death_142
+  - first:
+      213: -7547208301564399080
+    second: Spider_Death_143
+  - first:
+      213: -2675217655771267602
+    second: Spider_Death_144
+  - first:
+      213: 6742858786658377611
+    second: Spider_Death_145
+  - first:
+      213: -8569586391876840381
+    second: Spider_Death_146
+  - first:
+      213: -8200795599149233575
+    second: Spider_Death_147
+  - first:
+      213: 994121858268789095
+    second: Spider_Death_148
+  - first:
+      213: 5592595641341536568
+    second: Spider_Death_149
+  - first:
+      213: 8029333345776166080
+    second: Spider_Death_150
+  - first:
+      213: -2417610219246859543
+    second: Spider_Death_151
+  - first:
+      213: 2036099654559234509
+    second: Spider_Death_152
+  - first:
+      213: -3120883418688036962
+    second: Spider_Death_153
+  - first:
+      213: -6107237747956816649
+    second: Spider_Death_154
+  - first:
+      213: -4471422709837227182
+    second: Spider_Death_155
+  - first:
+      213: -5003725740065767458
+    second: Spider_Death_156
+  - first:
+      213: 988267607396247018
+    second: Spider_Death_157
+  - first:
+      213: -1162511865909808313
+    second: Spider_Death_158
+  - first:
+      213: 1172666411192043736
+    second: Spider_Death_159
+  - first:
+      213: 2618155022885338093
+    second: Spider_Death_160
+  - first:
+      213: 2479836996301891380
+    second: Spider_Death_161
+  - first:
+      213: -6039484255240466391
+    second: Spider_Death_162
+  - first:
+      213: 6132011608008762983
+    second: Spider_Death_163
+  - first:
+      213: 230449359501495562
+    second: Spider_Death_164
+  - first:
+      213: -6153426095047376036
+    second: Spider_Death_165
+  - first:
+      213: 3920996088595103184
+    second: Spider_Death_166
+  - first:
+      213: -7034959374091901189
+    second: Spider_Death_167
+  - first:
+      213: 8335887072827920622
+    second: Spider_Death_168
+  - first:
+      213: -4105857627953635094
+    second: Spider_Death_169
+  - first:
+      213: -1904472063517347753
+    second: Spider_Death_170
+  - first:
+      213: 6887903274872025462
+    second: Spider_Death_171
+  - first:
+      213: 8883175010635585393
+    second: Spider_Death_172
+  - first:
+      213: -3610151041276387132
+    second: Spider_Death_173
+  - first:
+      213: 1002182342328111203
+    second: Spider_Death_174
+  - first:
+      213: 1103492673329381676
+    second: Spider_Death_175
+  - first:
+      213: -1071788312539735221
+    second: Spider_Death_176
+  - first:
+      213: -6499844223045252423
+    second: Spider_Death_177
+  - first:
+      213: -6569287640552696859
+    second: Spider_Death_178
+  - first:
+      213: 7733941280523421923
+    second: Spider_Death_179
+  - first:
+      213: 1863229980128515777
+    second: Spider_Death_180
+  - first:
+      213: -5039965394053245555
+    second: Spider_Death_181
+  - first:
+      213: -1578257215295025040
+    second: Spider_Death_182
+  - first:
+      213: -5289461532772822003
+    second: Spider_Death_183
+  - first:
+      213: -6910952108001889601
+    second: Spider_Death_184
+  - first:
+      213: -3998166208083105953
+    second: Spider_Death_185
+  - first:
+      213: -2777522831984879014
+    second: Spider_Death_186
+  - first:
+      213: -5080709723339902433
+    second: Spider_Death_187
+  - first:
+      213: -3560787456877882837
+    second: Spider_Death_188
+  - first:
+      213: -4375302347452513512
+    second: Spider_Death_189
+  - first:
+      213: 4346537025061778935
+    second: Spider_Death_190
+  - first:
+      213: -7840554259091286659
+    second: Spider_Death_191
+  - first:
+      213: 6882139279717485748
+    second: Spider_Death_192
+  - first:
+      213: 1622471252147353678
+    second: Spider_Death_193
+  - first:
+      213: -4929802138250723319
+    second: Spider_Death_194
+  - first:
+      213: 8056463145659792305
+    second: Spider_Death_195
+  - first:
+      213: -615899097967351244
+    second: Spider_Death_196
+  - first:
+      213: -2039761073308604988
+    second: Spider_Death_197
+  - first:
+      213: 8858384373973114693
+    second: Spider_Death_198
+  - first:
+      213: 7831895889971885661
+    second: Spider_Death_199
+  - first:
+      213: -3374315629128224477
+    second: Spider_Death_200
+  - first:
+      213: -6578759321657734144
+    second: Spider_Death_201
+  - first:
+      213: 9067937756164590163
+    second: Spider_Death_202
+  - first:
+      213: -8637976792397972155
+    second: Spider_Death_203
+  - first:
+      213: -545876519677180007
+    second: Spider_Death_204
+  - first:
+      213: -4335634108336821903
+    second: Spider_Death_205
+  - first:
+      213: -95066060679834820
+    second: Spider_Death_206
+  - first:
+      213: 2083042313684510533
+    second: Spider_Death_207
+  - first:
+      213: 2993242697299136760
+    second: Spider_Death_208
+  - first:
+      213: -8144549765628144049
+    second: Spider_Death_209
+  - first:
+      213: -9180768353055548149
+    second: Spider_Death_210
+  - first:
+      213: 3065539547369217899
+    second: Spider_Death_211
+  - first:
+      213: 8638596057015948985
+    second: Spider_Death_212
+  - first:
+      213: 4774390901623755747
+    second: Spider_Death_213
+  - first:
+      213: -2765339405275188557
+    second: Spider_Death_214
+  - first:
+      213: 5269404858415385733
+    second: Spider_Death_215
+  - first:
+      213: -2356276575730291618
+    second: Spider_Death_216
+  - first:
+      213: 3480341401429942634
+    second: Spider_Death_217
+  - first:
+      213: 2374703223065263427
+    second: Spider_Death_218
+  - first:
+      213: -6475316835413324253
+    second: Spider_Death_219
+  - first:
+      213: -4353467417591426487
+    second: Spider_Death_220
+  - first:
+      213: -6782639488784040267
+    second: Spider_Death_221
+  - first:
+      213: 4645085977901403612
+    second: Spider_Death_222
+  - first:
+      213: -8647529163267061022
+    second: Spider_Death_223
+  - first:
+      213: -2984774444343540735
+    second: Spider_Death_224
+  - first:
+      213: -4839682148807817730
+    second: Spider_Death_225
+  - first:
+      213: 45643480180608290
+    second: Spider_Death_226
+  - first:
+      213: 2284019248216061531
+    second: Spider_Death_227
+  - first:
+      213: -5980421400949487649
+    second: Spider_Death_228
+  - first:
+      213: 4317644773449782214
+    second: Spider_Death_229
+  - first:
+      213: -1102001921614749858
+    second: Spider_Death_230
+  - first:
+      213: -5527451166550695209
+    second: Spider_Death_231
+  - first:
+      213: 1565348854081918402
+    second: Spider_Death_232
+  - first:
+      213: -3299597337272986490
+    second: Spider_Death_233
+  - first:
+      213: 2601248198973355412
+    second: Spider_Death_234
+  - first:
+      213: 2169009561586429710
+    second: Spider_Death_235
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spider_Death_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8ef7653aae0ea4abbeb29f8db96b60
+      internalID: 5515940388465253583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6339f40387549124986ca1b5c865ff8e
+      internalID: -6520443128951653849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946348510129c74ba64eefeeace8e16
+      internalID: -1438455721846447060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096b2db2b875b094d8140919c4eacaeb
+      internalID: -695508911225482883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f7762de5000d34a8c55a5094149384
+      internalID: -4056761900464952230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4b1ff94900c614bad04290e79db050
+      internalID: 7385018138126898444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac227003530c9459416da5c6535727
+      internalID: 6864951633810407737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fbfb3213a8d3d448cc6f7a79f067b9
+      internalID: -7690719552909781631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d172d97d6201ec540a9a9979166487cf
+      internalID: 1283128748658628804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb6e95e537e244fa7970cbe581d780
+      internalID: -8255346605438262791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dfdea604a11a44c91b70320b59c0e4
+      internalID: -4931404147288087084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69304437ae7c04a488809c4e2e55bf6d
+      internalID: 6881875229547684426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cb5261ad3fbc44a952ede81180b7ae
+      internalID: 4303769466727667012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea1da263f9eea418d178d3860de8f6
+      internalID: 4586777681906219758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45040888acfd53045a24eb012a85d3eb
+      internalID: 5265022023639740371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db1471571dc7aa4f9d963a66fcfb2a3
+      internalID: -620582921062787571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be5c0314b1b41c448d4ac03ebd3e371
+      internalID: 4488791372681652255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154b1b941e5126141b153c8ea4f28cd0
+      internalID: 4039163050319630384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7e528ec262fdb48a097ce42ae4830a
+      internalID: -8652791768032594203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85349acd3aed74e96ee15370fda2a7
+      internalID: -5240080820927950682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92642f0047740a648a1b314ce3b88f5b
+      internalID: -2179491946542612731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450d6cb3df76d3040a53a747ee0447e6
+      internalID: -236438270778105026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d3f4c2c77e0984ca2e747beb1174dc
+      internalID: 6152064827210850160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f64800146d07f4b8cfea262c550ff5
+      internalID: 4237073251075388097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439352033ac67234d9eaec657bc79bf1
+      internalID: 2636805266812054137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f10fb6409c03347a4cf587a6a090c0
+      internalID: -268066435241211554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd2acdeca4a1b84e97ceba256fe93e8
+      internalID: 2685037774779261071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309091aedfbf293498f365b7fb3ff790
+      internalID: 4032620940056966189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08556ae5ea2f1004989cfd0003bc09ef
+      internalID: -6484147580194844080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33afeba54d61236408b9511fe6e7e35f
+      internalID: 6541147359082852304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spider_Death_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4101fec03921ab4e960af65022608ca
+      internalID: -6373307215172268941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3dcc8d3acb67ff24ab473915e4132f6d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

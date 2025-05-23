@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: 713168598b2d08043b5cc722878bbec7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5945000588388744692
+    second: Moss_Giant_Idle_0
+  - first:
+      213: -5904362300928433965
+    second: Moss_Giant_Idle_1
+  - first:
+      213: -1603869592326727918
+    second: Moss_Giant_Idle_2
+  - first:
+      213: 6440355549160438461
+    second: Moss_Giant_Idle_3
+  - first:
+      213: 785017715909565320
+    second: Moss_Giant_Idle_4
+  - first:
+      213: 3948444319422351635
+    second: Moss_Giant_Idle_5
+  - first:
+      213: -1797706062415881732
+    second: Moss_Giant_Idle_6
+  - first:
+      213: 2123225644027846795
+    second: Moss_Giant_Idle_7
+  - first:
+      213: 5784041124071270684
+    second: Moss_Giant_Idle_8
+  - first:
+      213: 8130703965905578794
+    second: Moss_Giant_Idle_9
+  - first:
+      213: 5561905240728203718
+    second: Moss_Giant_Idle_10
+  - first:
+      213: 3955744213596377435
+    second: Moss_Giant_Idle_11
+  - first:
+      213: 9085549317564010090
+    second: Moss_Giant_Idle_12
+  - first:
+      213: -6394714545511526911
+    second: Moss_Giant_Idle_13
+  - first:
+      213: 7760232382953093370
+    second: Moss_Giant_Idle_14
+  - first:
+      213: -5344885835091787185
+    second: Moss_Giant_Idle_15
+  - first:
+      213: -6506413545660250139
+    second: Moss_Giant_Idle_16
+  - first:
+      213: 2725658002305773604
+    second: Moss_Giant_Idle_17
+  - first:
+      213: -5983204680928871357
+    second: Moss_Giant_Idle_18
+  - first:
+      213: 3089774126878117149
+    second: Moss_Giant_Idle_19
+  - first:
+      213: 3025656277811488674
+    second: Moss_Giant_Idle_20
+  - first:
+      213: 2071851156282382005
+    second: Moss_Giant_Idle_21
+  - first:
+      213: 303586616962558761
+    second: Moss_Giant_Idle_22
+  - first:
+      213: 7873239200973132597
+    second: Moss_Giant_Idle_23
+  - first:
+      213: -1628989800947070853
+    second: Moss_Giant_Idle_24
+  - first:
+      213: 5545713621847310498
+    second: Moss_Giant_Idle_25
+  - first:
+      213: 4541631635169538551
+    second: Moss_Giant_Idle_26
+  - first:
+      213: -8416711137888102604
+    second: Moss_Giant_Idle_27
+  - first:
+      213: -5426288585864688379
+    second: Moss_Giant_Idle_28
+  - first:
+      213: 1525889795112894961
+    second: Moss_Giant_Idle_29
+  - first:
+      213: -2000860600934849519
+    second: Moss_Giant_Idle_30
+  - first:
+      213: 7125213239860616446
+    second: Moss_Giant_Idle_31
+  - first:
+      213: -6136253299080936919
+    second: Moss_Giant_Idle_32
+  - first:
+      213: -584259923583261869
+    second: Moss_Giant_Idle_33
+  - first:
+      213: 4850813006428586259
+    second: Moss_Giant_Idle_34
+  - first:
+      213: -3475334309601222625
+    second: Moss_Giant_Idle_35
+  - first:
+      213: -1368543058604890306
+    second: Moss_Giant_Idle_36
+  - first:
+      213: -934074692979477691
+    second: Moss_Giant_Idle_37
+  - first:
+      213: 3820013466614739959
+    second: Moss_Giant_Idle_38
+  - first:
+      213: 1223903622056897469
+    second: Moss_Giant_Idle_39
+  - first:
+      213: 4108057385705384113
+    second: Moss_Giant_Idle_40
+  - first:
+      213: 5760183518860766106
+    second: Moss_Giant_Idle_41
+  - first:
+      213: -4221390676701004634
+    second: Moss_Giant_Idle_42
+  - first:
+      213: -7099365236052283295
+    second: Moss_Giant_Idle_43
+  - first:
+      213: -7573186100862412646
+    second: Moss_Giant_Idle_44
+  - first:
+      213: 4153961673683800385
+    second: Moss_Giant_Idle_45
+  - first:
+      213: 7832959663699831538
+    second: Moss_Giant_Idle_46
+  - first:
+      213: -6678219517933119493
+    second: Moss_Giant_Idle_47
+  - first:
+      213: 5431640079411681479
+    second: Moss_Giant_Idle_48
+  - first:
+      213: 5762452463031188755
+    second: Moss_Giant_Idle_49
+  - first:
+      213: -6379886862821325243
+    second: Moss_Giant_Idle_50
+  - first:
+      213: -1799723664726168676
+    second: Moss_Giant_Idle_51
+  - first:
+      213: 8040649150109492443
+    second: Moss_Giant_Idle_52
+  - first:
+      213: 8161124063618406560
+    second: Moss_Giant_Idle_53
+  - first:
+      213: 2541105494776946262
+    second: Moss_Giant_Idle_54
+  - first:
+      213: 5899923254734894720
+    second: Moss_Giant_Idle_55
+  - first:
+      213: -7614853281534185866
+    second: Moss_Giant_Idle_56
+  - first:
+      213: 4316428086028245518
+    second: Moss_Giant_Idle_57
+  - first:
+      213: 2653862275272694826
+    second: Moss_Giant_Idle_58
+  - first:
+      213: 5270141600152984753
+    second: Moss_Giant_Idle_59
+  - first:
+      213: 5813582458007622161
+    second: Moss_Giant_Idle_60
+  - first:
+      213: 5698120898683809792
+    second: Moss_Giant_Idle_61
+  - first:
+      213: 1943422328028181850
+    second: Moss_Giant_Idle_62
+  - first:
+      213: -5596429733442407344
+    second: Moss_Giant_Idle_63
+  - first:
+      213: -6111726496845214497
+    second: Moss_Giant_Idle_64
+  - first:
+      213: 2920200888954468097
+    second: Moss_Giant_Idle_65
+  - first:
+      213: 805829378312401052
+    second: Moss_Giant_Idle_66
+  - first:
+      213: -6009657944159719149
+    second: Moss_Giant_Idle_67
+  - first:
+      213: -1426851186443929091
+    second: Moss_Giant_Idle_68
+  - first:
+      213: -3181553374414648656
+    second: Moss_Giant_Idle_69
+  - first:
+      213: 2813929010106166027
+    second: Moss_Giant_Idle_70
+  - first:
+      213: 4916974862150936584
+    second: Moss_Giant_Idle_71
+  - first:
+      213: -138362811709583332
+    second: Moss_Giant_Idle_72
+  - first:
+      213: 6099014762005725849
+    second: Moss_Giant_Idle_73
+  - first:
+      213: -8931118094860363711
+    second: Moss_Giant_Idle_74
+  - first:
+      213: -494117979483603700
+    second: Moss_Giant_Idle_75
+  - first:
+      213: 5291821260069630825
+    second: Moss_Giant_Idle_76
+  - first:
+      213: -2347510174231694732
+    second: Moss_Giant_Idle_77
+  - first:
+      213: 3384929350260940647
+    second: Moss_Giant_Idle_78
+  - first:
+      213: -2157306803595857934
+    second: Moss_Giant_Idle_79
+  - first:
+      213: 3722556079554962628
+    second: Moss_Giant_Idle_80
+  - first:
+      213: 8475094646918234967
+    second: Moss_Giant_Idle_81
+  - first:
+      213: -968797022602163361
+    second: Moss_Giant_Idle_82
+  - first:
+      213: 79986245626169095
+    second: Moss_Giant_Idle_83
+  - first:
+      213: 108862176589571978
+    second: Moss_Giant_Idle_84
+  - first:
+      213: 3275016634046713787
+    second: Moss_Giant_Idle_85
+  - first:
+      213: 4032159509325208665
+    second: Moss_Giant_Idle_86
+  - first:
+      213: 7833489495156527857
+    second: Moss_Giant_Idle_87
+  - first:
+      213: 8220418525452997980
+    second: Moss_Giant_Idle_88
+  - first:
+      213: 2058057801427888185
+    second: Moss_Giant_Idle_89
+  - first:
+      213: -913284535678381189
+    second: Moss_Giant_Idle_90
+  - first:
+      213: -2761221511489569080
+    second: Moss_Giant_Idle_91
+  - first:
+      213: -5190077711566354792
+    second: Moss_Giant_Idle_92
+  - first:
+      213: -2232980126485868806
+    second: Moss_Giant_Idle_93
+  - first:
+      213: 8954554328461740890
+    second: Moss_Giant_Idle_94
+  - first:
+      213: -6887392746774844418
+    second: Moss_Giant_Idle_95
+  - first:
+      213: -5388056767045382059
+    second: Moss_Giant_Idle_96
+  - first:
+      213: -4357070014903994044
+    second: Moss_Giant_Idle_97
+  - first:
+      213: 6898009735475464242
+    second: Moss_Giant_Idle_98
+  - first:
+      213: 6664172223475075351
+    second: Moss_Giant_Idle_99
+  - first:
+      213: -2284264702832202337
+    second: Moss_Giant_Idle_100
+  - first:
+      213: 4343107117890278221
+    second: Moss_Giant_Idle_101
+  - first:
+      213: -8535445451703434257
+    second: Moss_Giant_Idle_102
+  - first:
+      213: -6570473091899948084
+    second: Moss_Giant_Idle_103
+  - first:
+      213: -7074935769439365854
+    second: Moss_Giant_Idle_104
+  - first:
+      213: 7888259113501477203
+    second: Moss_Giant_Idle_105
+  - first:
+      213: -8503545467712681676
+    second: Moss_Giant_Idle_106
+  - first:
+      213: 3255347177899243428
+    second: Moss_Giant_Idle_107
+  - first:
+      213: -7800853464642881406
+    second: Moss_Giant_Idle_108
+  - first:
+      213: 5704946453973157551
+    second: Moss_Giant_Idle_109
+  - first:
+      213: -7351589745099618596
+    second: Moss_Giant_Idle_110
+  - first:
+      213: -3050593922699556175
+    second: Moss_Giant_Idle_111
+  - first:
+      213: 169892157408019893
+    second: Moss_Giant_Idle_112
+  - first:
+      213: -4732499607378550308
+    second: Moss_Giant_Idle_113
+  - first:
+      213: -4076125152785133763
+    second: Moss_Giant_Idle_114
+  - first:
+      213: 4112219350097927670
+    second: Moss_Giant_Idle_115
+  - first:
+      213: 4769057849235655045
+    second: Moss_Giant_Idle_116
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 948.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e5962e3d487e4449722cd666477fdd
+      internalID: -5945000588388744692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 948.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb3dccc4ddca884ab8b15a4a834806e
+      internalID: -5904362300928433965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 948.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a986468a90dda44889fc4e42372f4e
+      internalID: -1603869592326727918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 948.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b6424002aa8b544bc0917860c75b35
+      internalID: 6440355549160438461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 948.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ada0b8e2bc6f534ab3249b7ca03be7d
+      internalID: 785017715909565320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 948.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3043352d822834ba72591bfd1d2a6b
+      internalID: 3948444319422351635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 948.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7264881b991bc8444a8e188c7216c052
+      internalID: -1797706062415881732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 948.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4703fd7b2316db4d92db1fb9b82edae
+      internalID: 2123225644027846795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 948.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f17b036fa65714491ac4b81c585efa
+      internalID: 5784041124071270684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc8c8b30198b5947a595f3e219a4e35
+      internalID: 8130703965905578794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 711.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbd5ee9d439d7046b3bdce697078c37
+      internalID: 5561905240728203718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 711.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fc8c72ddc84344285edc104467ea2e
+      internalID: 3955744213596377435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 711.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518eb3935bd526f42b3301a76f7a4fe1
+      internalID: 9085549317564010090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 711.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d59f74dcd893a3499437d59f2f1a7e6
+      internalID: -6394714545511526911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 711.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddc9a5a209371448bdac9267ffdba78
+      internalID: 7760232382953093370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 711.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13406d54aa1f5d44bd176f524ff45ac
+      internalID: -5344885835091787185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 711.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3c4ff3ec9f0a040887961790c7efc4
+      internalID: -6506413545660250139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 712
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21279c512cdc684ea54692a80c45084
+      internalID: 2725658002305773604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 474.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85291abb18d0fb849b94e02faab28655
+      internalID: -5983204680928871357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 475
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088404e27d4eff547a80470329ee51f1
+      internalID: 3089774126878117149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 475
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2faf2d12bbf8fb64da5ff85901f88ec4
+      internalID: 3025656277811488674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 475
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73a85c466f477d41a595b742018a424
+      internalID: 2071851156282382005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 475
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b917b0b3935796546b3d169cc8341e44
+      internalID: 303586616962558761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 474.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cade9fd508262124aa5287fa30e6879d
+      internalID: 7873239200973132597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 475
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb109aaf680d6c449efab71075a59f9
+      internalID: -1628989800947070853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 475
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fa797f11b091845b458c8873eda343
+      internalID: 5545713621847310498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237.8
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db6731935914b4e900705c918da0e1
+      internalID: -8416711137888102604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 238
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c9ef2c917f01c4993aa07ad774a0a7
+      internalID: -5426288585864688379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 238
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d4fa8fee44a494eadcfcc286e59219
+      internalID: 1525889795112894961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 238
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2adf210ecc80f04aa083c22f1029232
+      internalID: -2000860600934849519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 238
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db143c10a2904734c924bc595855e6dc
+      internalID: 7125213239860616446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 238
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5b75cd5ec704745891ee21bf7240cc
+      internalID: -6136253299080936919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 238
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b026c3b08fc731146ad9a52fc356e05f
+      internalID: -584259923583261869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 238
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc67070505a9884fb83de48d665e262
+      internalID: 4850813006428586259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 238
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36012d4a9b356824094859a4f7e98450
+      internalID: -3475334309601222625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f602d569f1574f4899515e1bba435a8
+      internalID: -1368543058604890306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2a9f404ff0caf4da3acf20b1be6aef
+      internalID: -934074692979477691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c89da063396614b992061842bc19e0
+      internalID: 3820013466614739959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac82a8df9fb83840baa640bec382957
+      internalID: 1223903622056897469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6d57812a431cb4b9fe79b5fe228a37
+      internalID: 4108057385705384113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c5ebf589dbd3445aeb30756dcaa0f1
+      internalID: 5760183518860766106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1
+        width: 191
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac9ff975a28789408b657e2a5e4fc4d
+      internalID: -4221390676701004634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 0.80000305
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049190a4569322249b1a1e39d0b4ac87
+      internalID: -7099365236052283295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss_Giant_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 0.80000305
+        width: 191.33333
+        height: 237.2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a2c2274805e548854dd022c7e1b5e
+      internalID: -7573186100862412646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cea77852a2b036648bdf716d85177ddd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
